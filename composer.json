@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-tree-first-second-level-child-pages",
+    "description": "Navigera mellan första och andra nivån och markera den som är aktiv",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
