@@ -10,6 +10,14 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-tree-fi
 Denna plugin skapar en array() med aktuell sida + alla barn-sidor
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-tree-first-second-level-child-pages/blob/master/LICENSE)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -169,6 +177,10 @@ array (size=2)
 ```
 
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterat information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
